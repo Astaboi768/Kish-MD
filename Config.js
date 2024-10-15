@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['254745936840']
-global.ownername = "KISH"//owner name
-global.ytname = "YT: Kish-MD"
+global.ownernumber = ['2348039896597']
+global.ownername = "AYANFE 🌹💜🦋"//owner name
+global.ytname = "YT: AYANFE 🌹💜🦋"
 global.socialm = "GitHub: Kish-MD"
 global.location = "Kenya"
 
